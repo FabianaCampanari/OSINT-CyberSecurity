@@ -33,7 +33,11 @@ Se você suspeita ou sabe de abuso infantil:
 📞 [Ligue 190]() (Polícia Militar) em caso de [emergência imediata]().
 
 
-<br><br>
+<br>
+
+#
+
+<br>
 
 
 🇺🇸 [USA]()
