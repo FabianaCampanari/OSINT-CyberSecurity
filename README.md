@@ -305,7 +305,7 @@ echo "🕵️‍♀️ OSINT environment is ready!"
 
 
 
-##  [Sample Commands (coming soon)
+##  🦅 [Sample Commands]() (coming soon)
 
 Useful CLI snippets and tool-specific commands will be added to `tools/usage_examples.md`.
 
