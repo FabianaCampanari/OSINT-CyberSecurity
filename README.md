@@ -23,7 +23,9 @@ Open Source Intelligence (OSINT) tools are essential for identifying digital foo
 <br>
 
 ## 📁 Folder Structure
-```
+
+
+```markdown
 📦osint-spvre
  ┣ 📂tools
  ┃ ┣ 📄README.md               → Descriptions and usage of each OSINT tool
@@ -36,3 +38,24 @@ Open Source Intelligence (OSINT) tools are essential for identifying digital foo
  ┣ 📄requirements.txt         → Python dependencies
  ┣ 📄.gitignore               → Ignored files and folders
  ┗ 📄setup.sh                 → Shell script to set up environment
+```
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
