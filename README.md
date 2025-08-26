@@ -276,11 +276,29 @@ Security consultancy with OSINT and pentest services.
 
 #
 
+
+<br><br>
+
+##  `requirements.txt`
+
+
+```txt
+shodan
+spiderfoot
+recon-ng
+theHarvester
+requests
+beautifulsoup4
+lxml
+osintgram
+```
+
+
 <br><br>
 
 
 
-## 🛠️ `setup.sh`
+##  `setup.sh`
 
 <br>
 
