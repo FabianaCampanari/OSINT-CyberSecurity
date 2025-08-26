@@ -37,9 +37,10 @@ If you suspect or know of child abuse:
 📞 Call 1-800-422-4453 (Childhelp National Child Abuse Hotline) for help and guidance, available 24/7.
 
 
+<br>
 
 
-
+### ⚠️ Protecting children is everyone’s responsibility. / Proteger as crianças é responsabilidade de todos.
 
 
 <br><br>
