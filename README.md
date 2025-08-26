@@ -298,11 +298,18 @@ source venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 
-echo "✅ OSINT environment is ready!"
+echo "🕵️‍♀️ OSINT environment is ready!"
 ```
 
 <br>
 
 
+
+##  [Sample Commands (coming soon)
+
+Useful CLI snippets and tool-specific commands will be added to `tools/usage_examples.md`.
+
+
+<br><br><br>
 
 
