@@ -1,0 +1,10 @@
+
+
+shodan
+spiderfoot
+recon-ng
+theHarvester
+requests
+beautifulsoup4
+lxml
+osintgram
