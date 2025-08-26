@@ -22,7 +22,7 @@ Open Source Intelligence (OSINT) tools are essential for identifying digital foo
 
 <br>
 
-## 📁 Folder Structure
+## [Repo Structure]()
 
 
 ```markdown
