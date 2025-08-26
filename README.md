@@ -147,6 +147,46 @@ Harvest emails, subdomains, and hosts.
 
 <br>
 
+### 🛠️ Recon-ng  
+Modular recon framework in Python.  
+[Info](https://tools.kali.org/information-gathering/recon-ng) |  [Repo](https://github.com/lanmaster53/recon-ng)
+
+<br>
+
+### 🕸️ SpiderFoot  
+Fully automated OSINT scanner.  
+🌐 [Website](https://www.spiderfoot.net) |  [Repo](https://github.com/smicallef/spiderfoot)
+
+
+<br>
+
+
+### 🌐 FOCA  
+Extract metadata from documents.  
+🌐[Website](https://www.elevenpaths.com/labstools/foca/index.html) |  [Repo](https://github.com/ElevenPaths/FOCA)
+
+
+
+<br>
+
+
+### 🔍 Sherlock  
+Search for usernames across social networks.  
+ [Repo](https://github.com/sherlock-project/sherlock)
+
+
+<br>
+
+
+### 🐾 OSINTgram  
+Instagram OSINT tool for scraping profiles.  
+[Repo](https://github.com/Datalux/Osintgram)
+
+
+<br>
+
+
+
 
 
 
