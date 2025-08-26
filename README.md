@@ -124,37 +124,58 @@ Open Source Intelligence (OSINT) tools are essential for identifying digital foo
 
 <br>
 
+
+
 ### 🔍 [Shodan]()
 
 Search engine for internet-connected devices.  
+
 [Website](https://www.shodan.io) |  [Repo](https://github.com/achillean/shodan-python)
 
+
+#
+
 <br>
+
 
 ### 🧠 [Maltego]()  
 
 Visual link analysis and data mining tool.  
+
 [Website](https://www.maltego.com) |  [Repo](https://github.com/paterva/maltego-trx)
 
+
+#
+
 <br>
+
 
 ### 🕵️ [theHarvestero]()   
 
 Harvest emails, subdomains, and hosts.  
-[Info](https://tools.kali.org/information-gathering/theharvester) |  [Repo](https://github.com/laramies/theHarvester)
+
+🌐[Info](https://tools.kali.org/information-gathering/theharvester) |  [Repo](https://github.com/laramies/theHarvester)
 
 
+
+#
 
 <br>
 
+
 ### 🛠️ Recon-ng  
+
 Modular recon framework in Python.  
+
 [Info](https://tools.kali.org/information-gathering/recon-ng) |  [Repo](https://github.com/lanmaster53/recon-ng)
+
 
 <br>
 
 ### 🕸️ SpiderFoot  
+
 Fully automated OSINT scanner.  
+
 🌐 [Website](https://www.spiderfoot.net) |  [Repo](https://github.com/smicallef/spiderfoot)
 
 
@@ -162,7 +183,9 @@ Fully automated OSINT scanner.
 
 
 ### 🌐 FOCA  
+
 Extract metadata from documents.  
+
 🌐[Website](https://www.elevenpaths.com/labstools/foca/index.html) |  [Repo](https://github.com/ElevenPaths/FOCA)
 
 
@@ -170,21 +193,80 @@ Extract metadata from documents.
 <br>
 
 
-### 🔍 Sherlock  
-Search for usernames across social networks.  
- [Repo](https://github.com/sherlock-project/sherlock)
+### 🔍 Sherlock 
+
+Search for usernames across social networks.
+
+🌐  [Repo](https://github.com/sherlock-project/sherlock)
 
 
 <br>
 
 
 ### 🐾 OSINTgram  
+
 Instagram OSINT tool for scraping profiles.  
-[Repo](https://github.com/Datalux/Osintgram)
+
+🌐  [Repo](https://github.com/Datalux/Osintgram)
 
 
 <br>
 
+
+### 📸 ExifTool  
+Edit and extract metadata from files.  
+🌐  [Website](https://exiftool.org) |  [Repo](https://github.com/exiftool/exiftool)
+
+<br>
+
+### 🌍 IntelX  
+
+Search engine for leaked info and metadata.  
+
+🌐 [Website](https://intelx.io)
+
+
+<br>
+
+
+### 🔎 Google Dorking  
+
+Advanced search techniques for OSINT.  
+
+🌐 [Google Hacking DB](https://www.exploit-db.com/google-hacking-database)
+
+
+
+<br>
+
+
+### 📬 ProtonMail 
+
+Encrypted email for secure, anonymous comms.  
+
+🌐 [Website](https://proton.me)
+
+
+<br>
+
+
+
+
+### 📶 Simet.nic.br  
+
+Measures latency, loss, and internet health.  
+
+🌐 [Website](https://simet.nic.br)
+
+
+<br>
+
+
+### 🛡️ Edge Security  
+
+Security consultancy with OSINT and pentest services.  
+
+🌐 [Website](https://www.edge-security.com/#)
 
 
 
