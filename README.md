@@ -16,7 +16,12 @@
 <br><br>
 
 
-> A SPVRE-curated list of powerful Open Source Intelligence (OSINT) tools for cybersecurity professionals, ethical hackers, and data investigators.
+
+> [!TIP]
+>  A SPVRE-curated list of powerful Open Source Intelligence (OSINT) tools for cybersecurity professionals, ethical hackers, and data investigators.
+
+ 
+
 
 <br><br>
 
