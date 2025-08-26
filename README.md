@@ -339,6 +339,9 @@ Useful CLI snippets and tool-specific commands will be added to `tools/usage_exa
 
 #
 
+
+<br><br>
+
 ###### <p align="center"> Copyright 2025 Fabiana Campanari. Code released under the [MIT license.](https://github.com/FabianaCampanari/FabianaCampanari/blob/66325d147794b5fc4688d56e6b78e8cdf42946e4/LICENSE)
 
 
