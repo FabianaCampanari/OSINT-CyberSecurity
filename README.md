@@ -56,9 +56,12 @@ If you suspect or know of child abuse:
 
 <br>
 
-> [!TIP]
+
+> [!IMPORTANT]
 >  ⚠️ Protecting Children is [Everyone’s Responsibilityl]() / Proteger as Crianças é [Responsabilidade de Todos]().
-###
+
+
+
 
 
 <br><br><br><br>
