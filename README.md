@@ -16,12 +16,22 @@
 
 <br>
 
-# CALL 0900
+### 🚨 Report Child Abuse / Denunciar Abuso Infantil
 
-<br><br>
+<br>
+
+🇧🇷 Brasil
+
+Se você suspeita ou sabe de abuso infantil:
+
+📞 Ligue 100 (Disque 100 – Direitos Humanos) – atendimento gratuito, 24 horas.
+📞 Ligue 190 (Polícia Militar) em caso de emergência imediata.
 
 
-https://github.com/user-attachments/assets/4a28c7a4-1b69-476c-8e2c-ce6ce4d7a823
+
+
+
+
 
 <br><br>
 
