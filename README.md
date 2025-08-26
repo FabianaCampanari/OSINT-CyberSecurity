@@ -20,7 +20,7 @@
 
 <br>
 
-### 🚨 Report Child Abuse / Denunciar Abuso Infantil
+## 🚨 Report Child Abuse / Denunciar Abuso Infantil
 
 <br>
 
