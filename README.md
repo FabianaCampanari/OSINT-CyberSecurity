@@ -24,8 +24,9 @@
 
 Se você suspeita ou sabe de abuso infantil:
 
-📞 Ligue 100 (Disque 100 – Direitos Humanos) – atendimento gratuito, 24 horas.
-📞 Ligue 190 (Polícia Militar) em caso de emergência imediata.
+📞 [Ligue 100]() (Disque 100 – Direitos Humanos) – atendimento gratuito, [24 horas]().
+
+📞 [Ligue 190]() (Polícia Militar) em caso de [emergência imediata]().
 
 
 <br><br>
@@ -33,8 +34,10 @@ Se você suspeita ou sabe de abuso infantil:
 🇺🇸 United States
 
 If you suspect or know of child abuse:
-📞 Call 911 if a child is in immediate danger.
-📞 Call 1-800-422-4453 (Childhelp National Child Abuse Hotline) for help and guidance, available 24/7.
+
+📞 [Call 911]() if a child is in [immediate danger]().
+
+📞 [Call 1-800-422-4453]() (Childhelp National Child Abuse Hotline) for help and guidance, [available 24/7]().
 
 
 <br>
