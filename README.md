@@ -129,7 +129,6 @@ Open Source Intelligence (OSINT) tools are essential for identifying digital foo
 ### 🔍 [Shodan]()
 
 Search engine for internet-connected devices.  
-
 [Website](https://www.shodan.io) |  [Repo](https://github.com/achillean/shodan-python)
 
 
@@ -141,7 +140,6 @@ Search engine for internet-connected devices.
 ### 🧠 [Maltego]()  
 
 Visual link analysis and data mining tool.  
-
 [Website](https://www.maltego.com) |  [Repo](https://github.com/paterva/maltego-trx)
 
 
@@ -153,8 +151,7 @@ Visual link analysis and data mining tool.
 ### 🕵️ [theHarvestero]()   
 
 Harvest emails, subdomains, and hosts.  
-
-🌐[Info](https://tools.kali.org/information-gathering/theharvester) |  [Repo](https://github.com/laramies/theHarvester)
+[Info](https://tools.kali.org/information-gathering/theharvester) |  [Repo](https://github.com/laramies/theHarvester)
 
 
 
@@ -166,7 +163,6 @@ Harvest emails, subdomains, and hosts.
 ### 🛠️ Recon-ng  
 
 Modular recon framework in Python.  
-
 [Info](https://tools.kali.org/information-gathering/recon-ng) |  [Repo](https://github.com/lanmaster53/recon-ng)
 
 
