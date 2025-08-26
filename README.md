@@ -276,12 +276,32 @@ Security consultancy with OSINT and pentest services.
 
 #
 
+<br><br>
+
+
+
+## 🛠️ `setup.sh`
+
 <br>
 
 
+```bash
+#!/bin/bash
 
+echo "🔍 Setting up OSINT environment..."
 
+# Cria ambiente virtual
+python3 -m venv venv
+source venv/bin/activate
 
+# Atualiza pip e instala dependências
+pip install --upgrade pip
+pip install -r requirements.txt
+
+echo "✅ OSINT environment is ready!"
+```
+
+<br>
 
 
 
