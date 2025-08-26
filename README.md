@@ -159,7 +159,7 @@ Harvest emails, subdomains, and hosts.
 <br>
 
 
-### 🛠️ Recon-ng  
+### 🛠️ [Recon-ng]()  
 
 Modular recon framework in Python.  
 [Info](https://tools.kali.org/information-gathering/recon-ng) |  [Repo](https://github.com/lanmaster53/recon-ng)
@@ -170,7 +170,7 @@ Modular recon framework in Python.
 <br>
 
 
-### 🕸️ SpiderFoot  
+### 🕸️ [SpiderFoot]()  
 
 Fully automated OSINT scanner.  
 [Website](https://www.spiderfoot.net) |  [Repo](https://github.com/smicallef/spiderfoot)
@@ -181,7 +181,7 @@ Fully automated OSINT scanner.
 <br>
 
 
-### 🌐 FOCA  
+### 🌐 [FOCA]()    
 
 Extract metadata from documents.  
 [Website](https://www.elevenpaths.com/labstools/foca/index.html) |  [Repo](https://github.com/ElevenPaths/FOCA)
@@ -192,7 +192,7 @@ Extract metadata from documents.
 <br>
 
 
-### 🔍 Sherlock 
+### 🔍 [Sherlock]()   
 
 Search for usernames across social networks.
 [Repo](https://github.com/sherlock-project/sherlock)
@@ -202,7 +202,7 @@ Search for usernames across social networks.
 
 <br>
 
-### 🐾 OSINTgram  
+### 🐾[OSINTgram]()  
 
 Instagram OSINT tool for scraping profiles.  
 [Repo](https://github.com/Datalux/Osintgram)
@@ -212,7 +212,7 @@ Instagram OSINT tool for scraping profiles.
 <br>
 
 
-### 📸 ExifTool  
+### 📸 [ExifTool]()  
 
 Edit and extract metadata from files.  
 [Website](https://exiftool.org) |  [Repo](https://github.com/exiftool/exiftool)
@@ -222,16 +222,18 @@ Edit and extract metadata from files.
 <br>
 
 
-### 🌍 IntelX  
+### 🌍 [IntelX]()  
 
 Search engine for leaked info and metadata.  
 [Website](https://intelx.io)
 
 
+#
+
 <br>
 
 
-### 🔎 Google Dorking  
+### 🔎 [Google Dorking]()  
 
 Advanced search techniques for OSINT.  
 [Google Hacking DB](https://www.exploit-db.com/google-hacking-database)
@@ -244,7 +246,7 @@ Advanced search techniques for OSINT.
 
 
 
-### 📬 ProtonMail 
+### 📬 [ProtonMail]() 
 
 Encrypted email for secure, anonymous comms.  
 [Website](https://proton.me)
@@ -255,7 +257,7 @@ Encrypted email for secure, anonymous comms.
 <br>
 
 
-### 📶 Simet.nic.br  
+### 📶 [Simet.nic.br]()  
 
 Measures latency, loss, and internet health.  
 [Website](https://simet.nic.br)
@@ -266,7 +268,7 @@ Measures latency, loss, and internet health.
 <br>
 
 
-### 🛡️ Edge Security  
+### 🛡️ [Edge Security]()  
 
 Security consultancy with OSINT and pentest services.  
 [Website](https://www.edge-security.com/#)
