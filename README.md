@@ -55,12 +55,15 @@ GREEN
 
 
 > [!IMPORTANT]
->  Protecting Children is [Everyone’s Responsibilityl]() / 
+>
+> ⚠️
+> 
+> Protecting Children is [Everyone’s Responsibilityl]()
+> 
 > Proteger as Crianças é [Responsabilidade de Todos]().
 
+
 <br><br>
-
-
 
 https://github.com/user-attachments/assets/3ecf0824-06c3-4e76-aa78-33888fc6b0a3
 
