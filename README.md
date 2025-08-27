@@ -22,7 +22,6 @@
 
 
 
-
 <!-- OPIK APP CONFIG COLORS
 
 GREEN
@@ -40,13 +39,22 @@ PURPLE
 > [!IMPORTANT]
 > **Version 1.7.0 Changes**: Please check the [changelog](https://github.com/comet-ml/opik/blob/main/CHANGELOG.md) for important updates and breaking changes.
 
-
  -->
 
 
 <br><br>
 
 ## 🚨 Report Child Abuse / Denunciar Abuso Infantil
+
+<br><br>
+
+
+> [!IMPORTANT]
+>  ⚠️ Protecting Children is [Everyone’s Responsibilityl]() / Proteger as Crianças é [Responsabilidade de Todos]().
+
+
+<br><br>
+
 
 
 https://github.com/user-attachments/assets/3ecf0824-06c3-4e76-aa78-33888fc6b0a3
@@ -80,17 +88,10 @@ If you suspect or know of child abuse:
 📞 [Call 1-800-422-4453]() (Childhelp National Child Abuse Hotline) for help and guidance, [available 24/7]().
 
 
-<br><br>
-
-
-> [!IMPORTANT]
->  ⚠️ Protecting Children is [Everyone’s Responsibilityl]() / Proteger as Crianças é [Responsabilidade de Todos]().
-
-
-
 
 
 <br><br><br><br>
+
 
 
 ##  [Overview]()
