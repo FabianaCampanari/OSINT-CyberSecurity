@@ -16,7 +16,6 @@
 <br><br>
 
 
-
 > [!TIP]
 >  A SPVRE-curated list of powerful Open Source Intelligence (OSINT) tools for cybersecurity professionals, ethical hackers, and data investigators.
 
@@ -24,7 +23,7 @@
 
 <!-- OPIK APP CONFIG COLORS
 
-GREEN
+=== GREEN ====
 
 > [!TIP]
 > You can also call `opik.configure(use_local=True)` from your Python code to configure the SDK to run on a local self-hosted installation, or provide API key and workspace details directly for Comet.com. Refer to the [Python SDK documentation](apps/opik-documentation/documentation/fern/docs/reference/python-sdk/) for more configuration options.
@@ -34,11 +33,10 @@ GREEN
 > [!TIP]
 > If you are looking for features that Opik doesn't have today, please raise a new [Feature request](https://github.com/comet-ml/opik/issues/new/choose) 
 
-PURPLE
+==== PURPLE =====
 
 > [!IMPORTANT]
 > **Version 1.7.0 Changes**: Please check the [changelog](https://github.com/comet-ml/opik/blob/main/CHANGELOG.md) for important updates and breaking changes.
-
  -->
 
 
@@ -46,18 +44,18 @@ PURPLE
 
 ## 🚨 Report Child Abuse / Denunciar Abuso Infantil
 
+
+<br><br>
+
+
+https://github.com/user-attachments/assets/3ecf0824-06c3-4e76-aa78-33888fc6b0a3
+
+
 <br><br>
 
 
 > [!IMPORTANT]
 >  ⚠️ Protecting Children is [Everyone’s Responsibilityl]() / Proteger as Crianças é [Responsabilidade de Todos]().
-
-
-<br><br>
-
-
-
-https://github.com/user-attachments/assets/3ecf0824-06c3-4e76-aa78-33888fc6b0a3
 
 
 <br><br>
