@@ -33,11 +33,8 @@ GREEN
 > [!TIP]
 > If you are looking for features that Opik doesn't have today, please raise a new [Feature request](https://github.com/comet-ml/opik/issues/new/choose) 
 
-==== PURPLE =====
-
-> [!IMPORTANT]
-> **Version 1.7.0 Changes**: Please check the [changelog](https://github.com/comet-ml/opik/blob/main/CHANGELOG.md) for important updates and breaking changes.
  -->
+
 
 
 <br><br>
@@ -48,10 +45,13 @@ GREEN
 <br><br>
 
 
-https://github.com/user-attachments/assets/3ecf0824-06c3-4e76-aa78-33888fc6b0a3
+<!-- OPIK APP CONFIG COLORS
+==== PURPLE =====
 
+> [!IMPORTANT]
+> **Version 1.7.0 Changes**: Please check the [changelog](https://github.com/comet-ml/opik/blob/main/CHANGELOG.md) for important updates and breaking changes.
+ -->
 
-<br><br>
 
 
 > [!IMPORTANT]
@@ -59,6 +59,16 @@ https://github.com/user-attachments/assets/3ecf0824-06c3-4e76-aa78-33888fc6b0a3
 
 
 <br><br>
+
+
+
+https://github.com/user-attachments/assets/3ecf0824-06c3-4e76-aa78-33888fc6b0a3
+
+
+<br><br>
+
+
+#
 
 
 🇧🇷 [Brasil]()
