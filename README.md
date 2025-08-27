@@ -55,8 +55,8 @@ GREEN
 
 
 > [!IMPORTANT]
->  ⚠️ Protecting Children is [Everyone’s Responsibilityl]() / Proteger as Crianças é [Responsabilidade de Todos]().
-
+>  Protecting Children is [Everyone’s Responsibilityl]() / 
+> Proteger as Crianças é [Responsabilidade de Todos]().
 
 <br><br>
 
