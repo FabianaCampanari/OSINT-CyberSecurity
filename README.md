@@ -102,6 +102,19 @@ If you suspect or know of child abuse:
 
 
 
+<br><br>
+
+
+### ADDRESSING COMPUTER-GENERATED CHILD SEX ABUSE IMAGERY - [LEGAL FRAMEWORK AND POLICY IMPLICATIONS](https://github.com/Mindful-AI-Assistants/Humanistic-AI-Ethics-PUCSP-Stanford-EU-AI-Act/blob/663da68b9308290106a8eea650de93bb60112f19/ADDRESSING%20COMPUTER-GENERATED%20CHILD%20SEX%20ABUSE%20IMAGERY%20-%20LEGAL%20FRAMEWORK%20AND%20POLICY%20IMPLICATIONS.pdf)
+
+<br>
+
+### Insights from Educators, Platforms - [Law Enforcement, Legislators and Victims](https://github.com/Mindful-AI-Assistants/Humanistic-AI-Ethics-PUCSP-Stanford-EU-AI-Act/blob/5a2a1eedf6566af3f96b3c498a679e95a1846cd4/Insights%20from%20Educators%2C%20Platforms%20-%20Law%20Enforcement%2C%20Legislators%20and%20Victims.pdf)
+
+
+
+
+
 
 <br><br><br><br>
 
