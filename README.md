@@ -117,6 +117,9 @@ If you suspect or know of child abuse:
 
 
 
+DEEPFAKE [CRIMINAL POLICY]() -  Model Legislation Nonconsensual Distribution of Intimate Images NDII
+
+
 
 <br><br><br><br>
 
